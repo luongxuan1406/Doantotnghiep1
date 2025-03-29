@@ -1,0 +1,601 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Doantotnghiep\\DoAnTotNghiep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\controllers\\pcgvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\controllers\\pcgvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\models\\pcgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\models\\pcgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\controllers\\lhpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\controllers\\lhpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\models\\lhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\models\\lhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\controllers\\giangviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\controllers\\giangviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\models\\giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\models\\giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\controllers\\dnttcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\controllers\\dnttcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\models\\dntt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\models\\dntt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\controllers\\dkttcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\controllers\\dkttcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\models\\dktt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\models\\dktt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\controllers\\dnntcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\controllers\\dnntcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\models\\dnnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\models\\dnnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\controllers\\dnsvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\controllers\\dnsvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\models\\dnsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\models\\dnsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\models\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\models\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\controllers\\khoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\controllers\\khoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\controllers\\bctkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\controllers\\bctkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\controllers\\bctcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\controllers\\bctcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\controllers\\bangdiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\controllers\\bangdiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\models\\danhgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\models\\danhgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\models\\cbk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\models\\cbk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\models\\bctk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\models\\bctk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\models\\bct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\models\\bct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\models\\bangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\models\\bangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\controllers\\danhgiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\controllers\\danhgiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\controllers\\cbkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\controllers\\cbkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|d:\\doantotnghiep\\doantotnghiep\\doantotnghiep\\models\\qlthuctapcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5A02CF-1143-4793-B493-7DC9E0335E2C}|DoAnTotNghiep\\DoAnTotNghiep.csproj|solutionrelative:doantotnghiep\\models\\qlthuctapcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:845303917:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PcgvController.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\PcgvController.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Controllers\\PcgvController.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\PcgvController.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Controllers\\PcgvController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAYwKYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:08:01.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lhp.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Lhp.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Models\\Lhp.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Lhp.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Models\\Lhp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:07:18.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LhpController.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\LhpController.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Controllers\\LhpController.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\LhpController.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Controllers\\LhpController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:07:07.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GiangvienController.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\GiangvienController.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Controllers\\GiangvienController.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\GiangvienController.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Controllers\\GiangvienController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:06:15.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SinhvienController.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\SinhvienController.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Controllers\\SinhvienController.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\SinhvienController.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Controllers\\SinhvienController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:05:21.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pcgv.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Pcgv.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Models\\Pcgv.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Pcgv.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Models\\Pcgv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:04:56.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sinhvien.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Sinhvien.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Models\\Sinhvien.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Sinhvien.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Models\\Sinhvien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:05:01.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Controllers\\TokenController.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAYwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:04:11.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Giangvien.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Giangvien.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Models\\Giangvien.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Giangvien.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Models\\Giangvien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:02:46.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaikhoanController.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\TaikhoanController.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Controllers\\TaikhoanController.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\TaikhoanController.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Controllers\\TaikhoanController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAYwJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:03:26.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Token.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Token.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Models\\Token.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Token.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Models\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:02:58.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Taikhoan.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Taikhoan.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Models\\Taikhoan.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Taikhoan.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Models\\Taikhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:02:54.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DnttController.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\DnttController.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Controllers\\DnttController.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\DnttController.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Controllers\\DnttController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAYwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:02:07.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DkttController.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\DkttController.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Controllers\\DkttController.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\DkttController.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Controllers\\DkttController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAYwGoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:00:52.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DnntController.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\DnntController.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Controllers\\DnntController.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\DnntController.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Controllers\\DnntController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAYwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:59:44.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DnsvController.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\DnsvController.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Controllers\\DnsvController.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\DnsvController.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Controllers\\DnsvController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAYwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:58:28.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dnnt.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Dnnt.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Models\\Dnnt.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Dnnt.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Models\\Dnnt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:44:56.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dktt.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Dktt.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Models\\Dktt.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Dktt.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Models\\Dktt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:43:54.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dntt.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Dntt.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Models\\Dntt.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Dntt.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Models\\Dntt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:48:41.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KhoaController.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\KhoaController.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Controllers\\KhoaController.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\KhoaController.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Controllers\\KhoaController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:01:11.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BctkController.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\BctkController.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Controllers\\BctkController.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\BctkController.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Controllers\\BctkController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:39:32.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BangDiemController.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\BangDiemController.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Controllers\\BangDiemController.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\BangDiemController.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Controllers\\BangDiemController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAgwHMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:08:59.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Khoa.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Khoa.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Models\\Khoa.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Khoa.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Models\\Khoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:00:45.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dnsv.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Dnsv.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Models\\Dnsv.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Dnsv.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Models\\Dnsv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:46:01.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BctController.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\BctController.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Controllers\\BctController.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\BctController.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Controllers\\BctController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:36:09.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Danhgium.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Danhgium.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Models\\Danhgium.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Danhgium.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Models\\Danhgium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:42:13.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cbk.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Cbk.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Models\\Cbk.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Cbk.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Models\\Cbk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:41:28.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Bctk.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Bctk.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Models\\Bctk.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Bctk.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Models\\Bctk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:39:51.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Bct.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Bct.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Models\\Bct.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Bct.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Models\\Bct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:29:12.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Bangdiem.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Bangdiem.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Models\\Bangdiem.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\Bangdiem.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Models\\Bangdiem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:05:08.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DanhgiumController.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\DanhgiumController.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Controllers\\DanhgiumController.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\DanhgiumController.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Controllers\\DanhgiumController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAgwJEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:42:34.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CbkController.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\CbkController.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Controllers\\CbkController.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Controllers\\CbkController.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Controllers\\CbkController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAgwH4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:41:18.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Program.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Program.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Program.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:02:01.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "QlthucTapContext.cs",
+              "DocumentMoniker": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\QlthucTapContext.cs",
+              "RelativeDocumentMoniker": "DoAnTotNghiep\\Models\\QlthucTapContext.cs",
+              "ToolTip": "D:\\Doantotnghiep\\DoAnTotNghiep\\DoAnTotNghiep\\Models\\QlthucTapContext.cs",
+              "RelativeToolTip": "DoAnTotNghiep\\Models\\QlthucTapContext.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:00:16.228Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
