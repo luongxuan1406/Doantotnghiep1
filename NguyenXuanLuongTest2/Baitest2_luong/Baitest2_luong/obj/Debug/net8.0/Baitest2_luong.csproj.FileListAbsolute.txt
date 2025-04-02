@@ -1,0 +1,14 @@
+D:\Doantotnghiep\Baitest2_luong\Baitest2_luong\bin\Debug\net8.0\Baitest2_luong.exe
+D:\Doantotnghiep\Baitest2_luong\Baitest2_luong\bin\Debug\net8.0\Baitest2_luong.deps.json
+D:\Doantotnghiep\Baitest2_luong\Baitest2_luong\bin\Debug\net8.0\Baitest2_luong.runtimeconfig.json
+D:\Doantotnghiep\Baitest2_luong\Baitest2_luong\bin\Debug\net8.0\Baitest2_luong.dll
+D:\Doantotnghiep\Baitest2_luong\Baitest2_luong\bin\Debug\net8.0\Baitest2_luong.pdb
+D:\Doantotnghiep\Baitest2_luong\Baitest2_luong\obj\Debug\net8.0\Baitest2_luong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Doantotnghiep\Baitest2_luong\Baitest2_luong\obj\Debug\net8.0\Baitest2_luong.AssemblyInfoInputs.cache
+D:\Doantotnghiep\Baitest2_luong\Baitest2_luong\obj\Debug\net8.0\Baitest2_luong.AssemblyInfo.cs
+D:\Doantotnghiep\Baitest2_luong\Baitest2_luong\obj\Debug\net8.0\Baitest2_luong.csproj.CoreCompileInputs.cache
+D:\Doantotnghiep\Baitest2_luong\Baitest2_luong\obj\Debug\net8.0\Baitest2_luong.dll
+D:\Doantotnghiep\Baitest2_luong\Baitest2_luong\obj\Debug\net8.0\refint\Baitest2_luong.dll
+D:\Doantotnghiep\Baitest2_luong\Baitest2_luong\obj\Debug\net8.0\Baitest2_luong.pdb
+D:\Doantotnghiep\Baitest2_luong\Baitest2_luong\obj\Debug\net8.0\Baitest2_luong.genruntimeconfig.cache
+D:\Doantotnghiep\Baitest2_luong\Baitest2_luong\obj\Debug\net8.0\ref\Baitest2_luong.dll
