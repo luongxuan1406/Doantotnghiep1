@@ -1,0 +1,455 @@
+/* Reset mặc định */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+}
+
+/* Container chính */
+.app-container {
+  display: flex;
+  min-height: 100vh;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 250px;
+  background-color: #2c3e50;
+  color: #fff;
+  padding: 20px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sidebar-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 30px;
+  padding: 0 20px;
+}
+
+.sidebar-logo {
+  width: 40px;
+  height: 40px;
+}
+
+.sidebar-header span {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.sidebar-menu {
+  list-style: none;
+  width: 100%;
+}
+
+.sidebar-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 15px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.sidebar-item:hover {
+  background-color: #34495e;
+}
+
+.sidebar-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.sidebar-item span {
+  font-size: 16px;
+}
+
+/* Main content */
+.main-content {
+  flex: 1;
+  background-color: #f0f2f5;
+  padding: 20px;
+}
+
+/* Căn giữa nội dung header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.header .logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header .logo img {
+  height: 60px;
+}
+
+.header .logo span {
+  font-size: 24px;
+  font-weight: bold;
+  color: #3366CC;
+}
+
+.header .search-bar input {
+  padding: 8px;
+  width: 300px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.header .user-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header .user-info span {
+  font-size: 14px;
+  font-weight: 500;
+  color: #333;
+  line-height: 60px; /* Căn giữa theo chiều dọc */
+}
+
+.header .user-info img {
+  height: 60px;
+  border-radius: 50%;
+}
+
+/* Dashboard (Nội dung chính) */
+.dashboard {
+  padding: 20px;
+  display: grid;
+  grid-template-areas:
+    "student-info reminders reminders"
+    "widgets widgets widgets"
+    "results progress credits";
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  min-height: calc(100vh - 60px);
+}
+
+/* Thông tin sinh viên */
+.student-info {
+  grid-area: student-info;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.student-info h2 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.student-info .student-details {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.student-info .avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.student-info .details p {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #555;
+}
+
+.student-info .details p strong {
+  color: #333;
+}
+
+.student-info button {
+  margin-top: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.student-info button:hover {
+  background-color: #0056b3;
+}
+
+/* Nhắc nhở, chương trình */
+.reminders {
+  grid-area: reminders;
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.reminders h3 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.reminders .reminder-card {
+  background-color: #FFFFCC;
+  padding: 15px;
+  border-radius: 4px;
+  margin-bottom: 15px;
+}
+
+.reminders .reminder-card p {
+  font-size: 18px;
+  color: #555;
+  margin-bottom: 5px;
+}
+
+.reminders .reminder-card button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.reminders .reminder-card button:hover {
+  background-color: #0056b3;
+}
+
+.reminders .reminder-stats {
+  display: flex;
+  gap: 20px;
+}
+
+.reminders .reminder-stats .stat {
+  flex: 1;
+  background-color: #CCFFFF;
+  padding: 15px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.reminders .reminder-stats .stat p {
+  font-size: 18px;
+  color: #555;
+  margin-bottom: 5px;
+}
+
+.reminders .reminder-stats .stat button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.reminders .reminder-stats .stat button:hover {
+  background-color: #0056b3;
+}
+
+/* Widgets */
+.widgets {
+  grid-area: widgets;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+.widgets .widget {
+  background-color: #FFFAF0;
+  padding: 15px;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-size: 18px;
+  color: #555;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s;
+}
+
+.widgets .widget:hover {
+  transform: scale(1.05); /* Phóng to nhẹ khi hover */
+}
+
+.widgets .widget-icon {
+  width: 40px;
+  height: 40px;
+  margin-bottom: 10px; /* Khoảng cách giữa icon và chữ */
+}
+
+.widgets .widget span {
+  font-size: 18px;
+  font-weight: bold;
+  color: #222222;
+  margin-top: 5px; /* Khoảng cách giữa chữ và icon */
+}
+
+/* Kết quả học tập */
+.results {
+  grid-area: results;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.results h3 {
+  font-size: 16px;
+  margin-bottom: 15px;
+  color: #CC3399;
+}
+
+.results select {
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.results .chart {
+  height: 200px;
+  background-color: #f8f9fa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+  color: #999;
+}
+
+/* Tiến độ học tập */
+.progress {
+  grid-area: progress;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.progress h3 {
+  font-size: 16px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.progress select {
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.progress .progress-circle {
+  text-align: center;
+}
+
+/* Số tín chỉ */
+.credits {
+  grid-area: credits;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.credits h3 {
+  font-size: 16px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.credits ul {
+  list-style: none;
+}
+
+.credits ul li {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 10px;
+}
+
+/* Các phần không cần thiết (bỏ đi) */
+.left-section,
+.right-section,
+.academic-progress,
+.class-schedule,
+.schedule-stats {
+  display: none;
+}
+
+/* Các phần còn lại (dành cho table và form, giữ nguyên) */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+form div {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 8px 16px;
+  margin-right: 10px;
+}
+
+.error {
+  color: red;
+}
